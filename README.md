@@ -83,16 +83,17 @@
 </div>
 
 ---
-
 ## 🐍 Contribution Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/twinkleQuest1110/twinkleQuest1110/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/twinkleQuest1110/twinkleQuest1110/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/twinkleQuest1110/twinkleQuest1110/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation eating my GitHub contribution graph" src="https://raw.githubusercontent.com/twinkleQuest1110/twinkleQuest1110/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
 </div>
-
-> Set this up once via the [Snake action](https://github.com/Platane/snk) — it animates your contribution graph like a snake eating your commits.
 
 ---
 
