@@ -20,10 +20,9 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
+                   outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#7c3aed&color_dots=#ebedf0,#e0d4ff,#c4a8ff,#a970ff,#7c3aed
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#A970FF&color_dots=#161b22,#3b2a5c,#5e3f99,#8257d6,#a970ff
       - name: Push to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
