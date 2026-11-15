@@ -88,9 +88,10 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/twinkleQuest1110/twinkleQuest1110/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/twinkleQuest1110/twinkleQuest1110/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation eating my GitHub contribution graph" src="https://raw.githubusercontent.com/twinkleQuest1110/twinkleQuest1110/output/github-contribution-grid-snake.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/twinkleQuest1110/twinkleQuest1110/output/github-contribution-grid-snake-dark.svg">
+  <img alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/twinkleQuest1110/twinkleQuest1110/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
